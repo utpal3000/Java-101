@@ -6,6 +6,9 @@ public class inputs {
         System.out.println("Please enter some input:");
         int roll=input.nextInt();
         System.out.println("Roll is " + roll);
+        // typecasting.
+        int num= (int)(45.44f);
+        System.out.println(num);
 
     }
 } 
